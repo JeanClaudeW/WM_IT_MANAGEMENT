@@ -68,6 +68,8 @@ Follow these steps to set up the project locally.
    ```
 3. **Set up environment variables**
    ```
+   Enter: billm@gmail.com___billm@6393
+   or 
    Modify the supabase.js file and enter your Supabase credentials:
    SUPABASE_URL=your_supabase_url
    SUPABASE_KEY=your_supabase_key
